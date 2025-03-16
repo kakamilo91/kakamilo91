@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kakamilo91
 - 👀 I’m interested in becoming a Full Stack Developer.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP. Started in 14 March 2025.
 - 💞️ I’m learning by myself, please be nice to me.
 - 📫 Can reach me via gmail: iskamil91@gmail.com
 - 😄 Pronouns: He
